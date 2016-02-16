@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./deparapraeposit01laangoog_0010.png"; bbox 0 0 3038 4808; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 262 1912 1259 1996">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 262 1912 1259 1996">
+     <span class='ocr_line' id='line_1_1' title="bbox 262 1912 1259 1996; baseline 0 -2"><span class='ocrx_word' id='word_1_1' title='bbox 262 1936 328 1994; x_wconf 82' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 353 1912 532 1995; x_wconf 84' lang='lat' dir='ltr'><strong>HAPA</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 560 1935 1013 1996; x_wconf 80' lang='lat' dir='ltr'><strong>PRAEPOSITIONIS</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1041 1938 1093 1994; x_wconf 74' lang='lat' dir='ltr'><strong>vl</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1120 1938 1259 1996; x_wconf 82' lang='lat' dir='ltr'>APUD</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 263 2119 1260 2199">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 263 2119 1260 2199">
+     <span class='ocr_line' id='line_1_2' title="bbox 263 2119 1260 2199; baseline 0.002 -21"><span class='ocrx_word' id='word_1_6' title='bbox 263 2120 516 2180; x_wconf 86' lang='lat' dir='ltr'><strong>EURIPIDEM</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 546 2119 592 2178; x_wconf 94' lang='lat' dir='ltr'><strong>IN</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 623 2119 968 2199; x_wconf 70' lang='lat' dir='ltr'>COMPOSITIONE</span> <span class='ocrx_word' id='word_1_9' title='bbox 999 2120 1260 2182; x_wconf 88' lang='lat' dir='ltr'><strong>VERBORUM.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1524 4808">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1524 4808">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1524 4808; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 0 0 1524 4808; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
